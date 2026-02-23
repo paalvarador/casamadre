@@ -60,7 +60,7 @@ const LandingCasaMadre = () => {
         <div className="grid md:grid-cols-4 gap-12">
           <BenefitItem title="Masa Madre Real" desc="Cultivada por años, aporta probióticos y encimas naturales." />
           <BenefitItem title="Digestión Ligera" desc="El proceso de 24h degrada el gluten de forma natural." />
-          <BenefitItem title="Ingredientes Locales" desc="Harinas sin blanquear y aditivos cero." />
+          <BenefitItem title="Ingredientes Locales" desc="Harinas sin blanquear y cero aditivos." />
           <BenefitItem title="Horneado Diario" desc="Producción limitada para garantizar frescura absoluta." />
         </div>
       </section>
