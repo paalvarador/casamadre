@@ -105,7 +105,7 @@ const LandingCasaMadre = () => {
           >
             CONTACTAR POR WHATSAPP
           </a>
-          <p className="text-[#f3e5ab]/40 mt-10 text-sm tracking-widest uppercase">Loja • Pan de Verdad</p>
+          <p className="text-[#f3e5ab]/40 mt-10 text-sm tracking-widest uppercase">Entrega a domicilio en toda la ciudad de Loja</p>
         </div>
       </section>
 
