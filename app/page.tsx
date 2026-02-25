@@ -122,7 +122,7 @@ const LandingCasaMadre = () => {
           />
           <BenefitItem
             title="Digestión Ligera"
-            desc="El proceso de 24h degrada el gluten de forma natural."
+            desc="El proceso de 36h degrada el gluten de forma natural."
           />
           <BenefitItem
             title="Ingredientes Locales"
