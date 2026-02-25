@@ -9,12 +9,12 @@ const LandingCasaMadre = () => {
   const WHATSAPP_LINK = "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20verdad";
 
   const panes = [
-    { nombre: 'Pan de Ajo', desc: 'Ajos rostizados a fuego lento que se funden en una miga aireada y fragante.', img: '/ajo.png' },
+    { nombre: 'Pan de Ajo', desc: 'Ajos asados con romero y aceite de oliva a fuego lento que se funden en una miga aireada y fragante.', img: '/ajo.png' },
     { nombre: 'Pan de Aceitunas', desc: 'Una selección premium de aceitunas sobre una base de masa madre con 48h de maduración.', img: '/aceitunas.png' },
     { nombre: 'Pan de Queso', desc: 'Corteza caramelizada con queso artesanal que aporta un contraste salino y crujiente.', img: '/queso.png' },
     { nombre: 'Pan Natural', desc: 'La máxima expresión del arte panadero: agua, harina seleccionada y sal de mar.', img: '/natural.png' },
     { nombre: 'Pan de Semillas', desc: 'Mix ancestral de semillas tostadas que aportan textura y un perfil nutricional superior.', img: '/semillas.png' },
-    { nombre: 'Pan de Almendras', desc: 'Delicadas láminas de almendra tostada para un sabor sutilmente dulce y sofisticado.', img: '/almendras.png' },
+    { nombre: 'Pan de Nuez', desc: 'Delicadas láminas de nuez tostada para un sabor sutilmente dulce y sofisticado.', img: '/nuez.png' },
   ];
 
   return (
@@ -35,10 +35,10 @@ const LandingCasaMadre = () => {
       <header className="relative h-screen flex items-center justify-center overflow-hidden bg-[#0a2e1f]">
         <div className="absolute inset-0 opacity-40">
            {/* Imagen de fondo sutil si deseas */}
-           <img src="/Pan Natural.jpg" className="w-full h-full object-cover grayscale" alt="Background" />
+           <img src="/hero.png" className="w-full h-full object-cover grayscale" alt="Background" />
         </div>
         <div className="relative z-10 text-center px-6">
-          <img src="/logo-casa-madre.jpg" alt="Casa Madre" className="w-32 md:w-44 mx-auto rounded-full mb-10 border-2 border-[#f3e5ab] shadow-2xl" />
+          <img src="/logo-casa-madre.jpg" alt="Casa Madre" className="w-56 md:w-56 mx-auto rounded-full mb-10 border-2 border-[#f3e5ab] shadow-2xl" />
           <h1 className="text-5xl md:text-8xl font-serif text-[#f3e5ab] leading-tight mb-6">Pan de Verdad.</h1>
           <p className="text-white/80 text-lg md:text-xl max-w-xl mx-auto font-light tracking-wide leading-relaxed">
             Honramos el tiempo y el origen. Fermentación natural de 24 horas para un sabor que no se puede apresurar.
