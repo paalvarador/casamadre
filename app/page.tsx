@@ -7,13 +7,13 @@ type TypeBenefit = {
 
 const LandingCasaMadre = () => {
   const WHATSAPP_LINK = [
-    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20verdad",
-    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20verdad%20de%20sabor%20a%20ajo",
-    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20verdad%20de%20sabor%20a%20aceitunas",
-    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20verdad%20de%20sabor%20a%20queso",
-    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20verdad%20de%20sabor%20natural",
-    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20verdad%20de%20sabor%20a%20semillas",
-    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20verdad%20de%20sabor%20a%20nuez",
+    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre",
+    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20ajo",
+    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20aceitunas",
+    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20queso",
+    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20natural",
+    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20semillas",
+    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20nuez",
   ];
 
   const panes = [
