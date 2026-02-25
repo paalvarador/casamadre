@@ -91,7 +91,7 @@ const LandingCasaMadre = () => {
             Pan de Verdad.
           </h1>
           <p className="text-white/80 text-lg md:text-xl max-w-xl mx-auto font-light tracking-wide leading-relaxed">
-            Honramos el tiempo y el origen. Fermentación natural de 24 horas
+            Honramos el tiempo y el origen. Fermentación natural de 36 horas
             para un sabor que no se puede apresurar.
           </p>
           <div className="mt-12">
