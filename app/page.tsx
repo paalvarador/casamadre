@@ -21,31 +21,37 @@ const LandingCasaMadre = () => {
       nombre: "Pan de Ajo",
       desc: "Ajos asados con romero y aceite de oliva a fuego lento que se funden en una miga aireada y fragante.",
       img: "/ajo.png",
+      precio: "$4.00",
     },
     {
       nombre: "Pan de Aceitunas",
       desc: "Una selección premium de aceitunas sobre una base de masa madre con 48h de maduración.",
       img: "/aceitunas.png",
+      precio: "$4.00",
     },
     {
       nombre: "Pan de Queso",
       desc: "Corteza caramelizada con queso artesanal que aporta un contraste salino y crujiente.",
       img: "/queso.png",
+      precio: "$4.00",
     },
     {
       nombre: "Pan Natural",
       desc: "La máxima expresión del arte panadero: agua, harina seleccionada y sal de mar.",
       img: "/natural.png",
+      precio: "$3.50",
     },
     {
       nombre: "Pan de Semillas",
       desc: "Mix ancestral de semillas tostadas que aportan textura y un perfil nutricional superior.",
       img: "/semillas.png",
+      precio: "$4.00",
     },
     {
       nombre: "Pan de Nuez",
       desc: "Delicadas láminas de nuez tostada para un sabor sutilmente dulce y sofisticado.",
       img: "/nuez.png",
+      precio: "$4.00",
     },
   ];
 
@@ -157,8 +163,11 @@ const LandingCasaMadre = () => {
                 {pan.nombre}
               </h3>
               <div className="w-20 h-1 bg-[#f3e5ab] mb-8"></div>
-              <p className="text-xl text-stone-500 font-light leading-relaxed mb-10">
+              <p className="text-xl text-stone-500 font-light leading-relaxed mb-8">
                 {pan.desc}
+              </p>
+              <p className="text-3xl font-serif text-[#0a2e1f] mb-10">
+                {pan.precio}
               </p>
               <a
                 href={WHATSAPP_LINK[index + 1]}
