@@ -12,7 +12,7 @@ const LandingCasaMadre = () => {
     "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20aceitunas",
     "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20queso",
     "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20natural",
-    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20semillas",
+    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20frutos%20secos",
     "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20nuez",
     "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20carb%C3%B3n%20activado",
   ];
@@ -43,8 +43,8 @@ const LandingCasaMadre = () => {
       precio: "$3.50",
     },
     {
-      nombre: "Pan de Semillas",
-      desc: "Mix ancestral de semillas tostadas que aportan textura y un perfil nutricional superior.",
+      nombre: "Pan de Frutos Secos",
+      desc: "Mix ancestral de frutos secos tostados que aportan textura y un perfil nutricional superior.",
       img: "/semillas.png",
       precio: "$4.00",
     },
