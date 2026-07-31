@@ -14,6 +14,7 @@ const LandingCasaMadre = () => {
     "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20natural",
     "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20semillas",
     "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20sabor%20a%20nuez",
+    "https://wa.me/593996165091?text=Hola%20Casa%20Madre!%20Quiero%20pedir%20pan%20de%20masa%20madre%20de%20carb%C3%B3n%20activado",
   ];
 
   const panes = [
@@ -51,6 +52,12 @@ const LandingCasaMadre = () => {
       nombre: "Pan de Nuez",
       desc: "Delicadas láminas de nuez tostada para un sabor sutilmente dulce y sofisticado.",
       img: "/nuez.png",
+      precio: "$4.00",
+    },
+    {
+      nombre: "Pan de Carbón Activado",
+      desc: "Carbón activado de origen vegetal que tiñe la miga de un negro intenso, con propiedades detoxificantes y un sutil toque ahumado.",
+      img: "/carbon-activado.png",
       precio: "$4.00",
     },
   ];
